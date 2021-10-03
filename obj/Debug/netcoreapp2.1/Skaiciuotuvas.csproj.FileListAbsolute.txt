@@ -1,0 +1,11 @@
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\bin\Debug\netcoreapp2.1\Skaiciuotuvas.deps.json
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\bin\Debug\netcoreapp2.1\Skaiciuotuvas.runtimeconfig.json
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\bin\Debug\netcoreapp2.1\Skaiciuotuvas.runtimeconfig.dev.json
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\bin\Debug\netcoreapp2.1\Skaiciuotuvas.dll
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\bin\Debug\netcoreapp2.1\Skaiciuotuvas.pdb
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\obj\Debug\netcoreapp2.1\Skaiciuotuvas.csprojAssemblyReference.cache
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\obj\Debug\netcoreapp2.1\Skaiciuotuvas.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\obj\Debug\netcoreapp2.1\Skaiciuotuvas.AssemblyInfoInputs.cache
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\obj\Debug\netcoreapp2.1\Skaiciuotuvas.AssemblyInfo.cs
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\obj\Debug\netcoreapp2.1\Skaiciuotuvas.dll
+C:\Users\X\Desktop\IS17B\IS18S\Programavimas\Skaiciuotuvas\Skaiciuotuvas\obj\Debug\netcoreapp2.1\Skaiciuotuvas.pdb
